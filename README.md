@@ -1,5 +1,4 @@
-# BOOTSTRAP TEMPLATE
+# NOTES
 
-This is a template using Bootstrap 3. Remember to change github repo with:
-
-git remote set-url origin _(paste in your link here, no underscores or "()")_
+ main jumbotron image found on the WOC in tech chat website:
+ https://www.flickr.com/photos/wocintechchat/25677238242/

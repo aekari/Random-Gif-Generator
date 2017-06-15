@@ -1,0 +1,30 @@
+.btn-primary {
+	background-color:#8A2BE2;
+	border-color:#4B0082;
+}
+
+.btn-primary:hover {
+	background-color:#4B0082;
+	border-color:#4B0082;
+}
+
+.btn-primary:visited {
+	background-color:#4B0082;
+	border-color:#4B0082;
+}
+
+.btn-primary:focus:active {
+	background-color:#9370DB;
+	border-color:#4B0082;
+}
+
+.mainjumbotron {
+	background-image:url(../images/jumboheaderbg.jpg);
+	background-position:center;
+	background-size:cover;
+	color:#fff;
+}
+
+.img-output{
+	max-width: 300px;
+}
