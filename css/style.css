@@ -1,3 +1,11 @@
+body{
+    margin-bottom: 30px;
+}
+
+.navbar{
+    background-color: #fff; 
+}
+
 .btn-primary {
 	background-color:#8A2BE2;
 	border-color:#4B0082;
@@ -25,6 +33,4 @@
 	color:#fff;
 }
 
-.img-output{
-	max-width: 300px;
-}
+
